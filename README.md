@@ -1,6 +1,6 @@
 #FoodCourtApp # FoodCourtApp
 
-**Tags**: #Autenticação&autorização #CSS #Docker #Fastify #Html #Markdown #Node #Prisma #React #TypeScript #Zod #vitest
+**Tags**: #Autenticação&autorização #CSS #Database #Docker #Fastify #Html #Markdown #Node #Prisma #React #TypeScript #Zod #vitest
 
 ## 🔗 Repository Reference
 **Internal Path**: `01_Projetos/FoodCourtApp`
