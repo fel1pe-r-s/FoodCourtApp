@@ -1,3 +1,5 @@
+#FoodCourtApp
+
 Requisitos do Back-end:
 [X] Armazenamento de dados do admin, do restaurante e dos usuários em um banco de dados.
 [X] Implementação de funcionalidades de busca por nome e ingredientes para pratos.
